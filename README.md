@@ -1,2 +1,2 @@
 # JUSTCOPIE.
-Its the website for selling notebooks..i made it only with html and css
+A website for selling notebook (made with html and css for fun).
